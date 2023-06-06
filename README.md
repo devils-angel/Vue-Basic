@@ -1,1 +1,1 @@
-Vue Basic Application
+Vue Basic Application Updated
